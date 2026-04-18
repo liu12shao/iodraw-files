@@ -109,7 +109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-64" value="密码校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="534" y="2850" width="113" height="83" as="geometry" />
+          <mxGeometry x="547.5" y="2850" width="113" height="83" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-65" value="显示验证码(Kaptcha)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="499" y="3040" width="210" height="49" as="geometry" />
@@ -181,14 +181,6 @@
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-81" value="错误" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.72;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-64" target="_YdCC2SEsKEoDBMv1W3g-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_YdCC2SEsKEoDBMv1W3g-82" value="正确" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-64" target="_YdCC2SEsKEoDBMv1W3g-65">
-          <mxGeometry x="0.003" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="604" y="3009" />
-            </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-65" target="_YdCC2SEsKEoDBMv1W3g-66">
