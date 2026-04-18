@@ -110,7 +110,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_YdCC2SEsKEoDBMv1W3g-81" value="错误" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-64" target="_YdCC2SEsKEoDBMv1W3g-63">
+        <mxCell id="_YdCC2SEsKEoDBMv1W3g-81" value="错误" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-64" target="_YdCC2SEsKEoDBMv1W3g-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
