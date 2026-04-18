@@ -69,7 +69,7 @@
           <mxGeometry x="636" y="2096" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-58" value="开始" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="413" y="2120" width="62" height="49" as="geometry" />
+          <mxGeometry x="413" y="2120" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-61" value="查询用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380.5" y="2460" width="124" height="49" as="geometry" />
@@ -237,7 +237,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-128" value="查询用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="361" y="2330" width="124" height="49" as="geometry" />
+          <mxGeometry x="380.5" y="2310" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
