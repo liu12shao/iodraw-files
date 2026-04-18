@@ -62,15 +62,6 @@
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-8" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="549.5" y="490" width="165" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="_YdCC2SEsKEoDBMv1W3g-13" value="验证码错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1864" width="140" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_YdCC2SEsKEoDBMv1W3g-15" value="验证码过期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="957" y="1864" width="140" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_YdCC2SEsKEoDBMv1W3g-23" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="609" y="1963" width="55" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-24" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="619" y="2046" as="geometry" />
         </mxCell>
