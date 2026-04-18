@@ -83,6 +83,11 @@
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-62" target="_YdCC2SEsKEoDBMv1W3g-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_YdCC2SEsKEoDBMv1W3g-100" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_YdCC2SEsKEoDBMv1W3g-99">
+          <mxGeometry x="-0.1004" y="-5" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-62" value="用户是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="373" y="2630" width="145" height="145" as="geometry" />
         </mxCell>
@@ -140,13 +145,6 @@
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-61" target="_YdCC2SEsKEoDBMv1W3g-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_YdCC2SEsKEoDBMv1W3g-80" value="存在" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-62" target="_YdCC2SEsKEoDBMv1W3g-64">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="576" y="2824" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-81" value="错误" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.72;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-64" target="_YdCC2SEsKEoDBMv1W3g-63">
