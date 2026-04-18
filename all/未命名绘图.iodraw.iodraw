@@ -37,9 +37,10 @@
         <mxCell id="0VHGmOSM8l98AlosyBHB-9" value="更新订单&#xa;状态=&quot;已支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="83" y="630" width="198" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="0VHGmOSM8l98AlosyBHB-12">
+        <mxCell id="0VHGmOSM8l98AlosyBHB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="126" y="900" as="sourcePoint" />
+            <mxPoint x="167" y="890" as="sourcePoint" />
+            <mxPoint x="414" y="947" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-11" value="支付成功&#xa;跳转订单详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
