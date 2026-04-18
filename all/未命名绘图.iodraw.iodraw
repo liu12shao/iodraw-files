@@ -17,7 +17,7 @@
           <mxGeometry x="570" y="130" width="140" height="53" as="geometry" />
         </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-6" value="时段是否冲突&#xa;(Redis分布式锁)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="760" y="140" width="216" height="82.5" as="geometry" />
+          <mxGeometry x="750" y="115.25" width="216" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-7" value="提示&quot;该时段已被预约&quot;&#xa;请选择其他时段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1078" y="40" width="242" height="97" as="geometry" />
@@ -46,13 +46,6 @@
         <mxCell id="gIaM-91dVMxVQiJmObUB-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-5" target="gIaM-91dVMxVQiJmObUB-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gIaM-91dVMxVQiJmObUB-15" value="冲突" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.29;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-6" target="gIaM-91dVMxVQiJmObUB-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1027" y="89" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-16" value="不冲突" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-6" target="gIaM-91dVMxVQiJmObUB-8">
