@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-29" value="提示&quot;该时段已被预约&#xa;请选择其他时段" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1030" width="254" height="66" as="geometry" />
+          <mxGeometry x="13" y="1000" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-30" value="预约成功&#xa;等待审核" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="325" y="1000" width="124" height="66" as="geometry" />
