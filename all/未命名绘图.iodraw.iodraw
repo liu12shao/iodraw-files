@@ -82,8 +82,8 @@
             <mxPoint x="1050" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIaM-91dVMxVQiJmObUB-24" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="358" y="370" width="55" height="34" as="geometry" />
+        <mxCell id="gIaM-91dVMxVQiJmObUB-24" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="316" y="370" width="142" height="34" as="geometry" />
         </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-25" value="选择场地" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="324" y="454" width="124" height="49" as="geometry" />
