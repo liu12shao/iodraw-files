@@ -7,7 +7,7 @@
         <mxCell id="0VHGmOSM8l98AlosyBHB-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="304" width="122" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-2" value="查看订单列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0VHGmOSM8l98AlosyBHB-2" value="查看订单列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=126;" vertex="1" parent="1">
           <mxGeometry x="288" y="108" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-3" value="选择支付方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
