@@ -69,7 +69,7 @@
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-67" value="验证验证码(Redis)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="501.5" y="3060" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_YdCC2SEsKEoDBMv1W3g-68" value="生成Token(Sa-Token)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_YdCC2SEsKEoDBMv1W3g-68" value="生成Token(Sa-Token)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="318.5" y="3160" width="209" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-69" target="_YdCC2SEsKEoDBMv1W3g-74">
