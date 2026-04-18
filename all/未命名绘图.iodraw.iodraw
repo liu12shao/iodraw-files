@@ -109,10 +109,7 @@
           <mxGeometry x="20" y="991" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-30" value="预约成功&#xa;等待审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="324" y="1020" width="124" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="gIaM-91dVMxVQiJmObUB-31" value="提示&quot;预约超时，请&#xa;重新选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="498" y="991" width="238" height="66" as="geometry" />
+          <mxGeometry x="325" y="1000" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-32" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="358" y="1107" width="55" height="34" as="geometry" />
