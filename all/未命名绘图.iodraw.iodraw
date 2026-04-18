@@ -100,7 +100,7 @@
           <mxGeometry x="371" y="2640" width="145" height="95" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-63" value="提示&#39;账号或密码不正确&#39;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="3045" width="246" height="66" as="geometry" />
+          <mxGeometry x="150" y="3070" width="246" height="66" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-64" value="密码校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="516" y="2810" width="113" height="83" as="geometry" />
@@ -230,6 +230,18 @@
             <Array as="points">
               <mxPoint x="794" y="3769" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YdCC2SEsKEoDBMv1W3g-105" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="3380" as="sourcePoint" />
+            <mxPoint x="690" y="3330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YdCC2SEsKEoDBMv1W3g-106" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="3380" as="sourcePoint" />
+            <mxPoint x="690" y="3330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
