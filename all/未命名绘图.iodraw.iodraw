@@ -13,7 +13,7 @@
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-3" value="是否输入 查询条件" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="240" y="203" width="163" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-4" value="选择查询 类型(名称/编号 /状态)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-4" value="" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="20" y="324" width="209" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-5" value="显示全部 订单列表" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
