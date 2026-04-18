@@ -94,6 +94,9 @@
         <mxCell id="gIaM-91dVMxVQiJmObUB-27" value="提交预约" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="324" y="651" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-28" target="gIaM-91dVMxVQiJmObUB-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-28" value="时段是否冲突&#xa;Redis分布式锁" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="302" y="750" width="168" height="168" as="geometry" />
         </mxCell>
@@ -132,13 +135,6 @@
         <mxCell id="gIaM-91dVMxVQiJmObUB-38" value="不冲突" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-28" target="gIaM-91dVMxVQiJmObUB-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gIaM-91dVMxVQiJmObUB-39" value="超时" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-28" target="gIaM-91dVMxVQiJmObUB-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="617" y="954" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-30" target="gIaM-91dVMxVQiJmObUB-32">
