@@ -4,6 +4,69 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gIaM-91dVMxVQiJmObUB-2" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="100" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-3" value="选择场地" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="140" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-4" value="选择时间段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="160" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-5" value="提交预约" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="140" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-6" value="时段是否冲突&#xa;(Redis分布式锁)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="760" y="48" width="216" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-7" value="提示&quot;该时段已被预约&quot;&#xa;请选择其他时段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1078" y="40" width="242" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-8" value="预约成功&#xa;等待审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="187" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1371" y="198" width="100" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-2" target="gIaM-91dVMxVQiJmObUB-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-3" target="gIaM-91dVMxVQiJmObUB-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-4" target="gIaM-91dVMxVQiJmObUB-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-5" target="gIaM-91dVMxVQiJmObUB-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-15" value="冲突" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.29;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-6" target="gIaM-91dVMxVQiJmObUB-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1027" y="89" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-16" value="不冲突" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-6" target="gIaM-91dVMxVQiJmObUB-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1027" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-8" target="gIaM-91dVMxVQiJmObUB-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
