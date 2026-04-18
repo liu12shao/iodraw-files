@@ -26,6 +26,9 @@
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-4" value="选择查询 类型(名称/编号 /状态)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="20" y="324" width="209" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mc_DtDmNUbXPAgXCJBLF-5" target="Mc_DtDmNUbXPAgXCJBLF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-5" value="显示全部 订单列表" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="445" y="441" width="163" height="49" as="geometry" />
         </mxCell>
