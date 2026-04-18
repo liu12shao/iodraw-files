@@ -96,13 +96,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_YdCC2SEsKEoDBMv1W3g-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-62">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550.0000000000002" y="2690" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-62" value="用户是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="373" y="2630" width="145" height="145" as="geometry" />
+          <mxGeometry x="373" y="2680" width="145" height="95" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-63" value="提示&#39;账号或密码不正确&#39;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="3045" width="246" height="66" as="geometry" />
