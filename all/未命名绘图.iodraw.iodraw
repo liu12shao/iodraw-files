@@ -55,7 +55,7 @@
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-65" value="显示验证码(Kaptcha)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="491.5" y="2840" width="210" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_YdCC2SEsKEoDBMv1W3g-66" value="用户输入验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_YdCC2SEsKEoDBMv1W3g-66" value="用户输入验证码" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="2950" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-67" target="_YdCC2SEsKEoDBMv1W3g-68">
