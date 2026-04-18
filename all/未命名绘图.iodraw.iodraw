@@ -1,97 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="I82btLbyMQpeNPeX2Nx_">
-    <mxGraphModel dx="1489" dy="2085" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="2GMEfMAXCpQBevqvdTQA">
+    <mxGraphModel dx="670" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0VHGmOSM8l98AlosyBHB-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="304" width="122" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-2" value="查看订单列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="288" y="108" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-3" value="选择支付方式" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="288" y="207" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-4" value="余额校验" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="304" y="305" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-5" target="0VHGmOSM8l98AlosyBHB-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-39" value="充足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="0VHGmOSM8l98AlosyBHB-29">
-          <mxGeometry x="0.144" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-5" target="0VHGmOSM8l98AlosyBHB-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-40" value="不足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="0VHGmOSM8l98AlosyBHB-33">
-          <mxGeometry x="0.0437" y="10" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-5" value="余额是否充足&#xa;(NumberUtil计算)" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="270" y="404" width="192" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-6" value="扣减余额&#xa;精确计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="519" width="124" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-7" target="0VHGmOSM8l98AlosyBHB-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="618" y="957" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-7" value="提示&quot;余额不足&quot;&#xa;请充值" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="490" y="519" width="256" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-9" target="0VHGmOSM8l98AlosyBHB-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-9" value="更新订单&#xa;状态=&quot;已支付" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="82" y="630" width="198" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-11" target="0VHGmOSM8l98AlosyBHB-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="182" y="957" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-11" value="支付成功&#xa;跳转订单详情" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="104" y="820" width="156" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-12" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="386" y="940" width="55" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-1" target="0VHGmOSM8l98AlosyBHB-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=16;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-2" target="0VHGmOSM8l98AlosyBHB-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-3" target="0VHGmOSM8l98AlosyBHB-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-4" target="0VHGmOSM8l98AlosyBHB-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-6" target="0VHGmOSM8l98AlosyBHB-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
