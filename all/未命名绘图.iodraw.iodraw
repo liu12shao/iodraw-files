@@ -129,13 +129,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIaM-91dVMxVQiJmObUB-37" value="冲突" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-28" target="gIaM-91dVMxVQiJmObUB-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="147" y="954" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-38" value="不冲突" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-28" target="gIaM-91dVMxVQiJmObUB-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
