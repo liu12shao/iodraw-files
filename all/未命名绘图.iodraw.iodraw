@@ -137,6 +137,7 @@
         <mxCell id="gIaM-91dVMxVQiJmObUB-38" value="不冲突" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-28" target="gIaM-91dVMxVQiJmObUB-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-30" target="gIaM-91dVMxVQiJmObUB-32">
