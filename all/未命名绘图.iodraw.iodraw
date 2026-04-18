@@ -36,6 +36,9 @@
         <mxCell id="gIaM-91dVMxVQiJmObUB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-29" target="gIaM-91dVMxVQiJmObUB-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="627.979736328125" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="466" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-29" value="提示&quot;该时段已被预约&#xa;请选择其他时段" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
