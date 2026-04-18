@@ -33,11 +33,12 @@
         <mxCell id="gIaM-91dVMxVQiJmObUB-28" value="时段是否冲突&#xa;Redis分布式锁" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="267" y="740" width="238" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gIaM-91dVMxVQiJmObUB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-29" target="gIaM-91dVMxVQiJmObUB-25">
+        <mxCell id="gIaM-91dVMxVQiJmObUB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="627.979736328125" as="targetPoint" />
+            <mxPoint x="326.5" y="480.0000000000002" as="targetPoint" />
+            <mxPoint x="32.50000000000023" y="1013.75" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="30" y="466" />
+              <mxPoint x="32.5" y="479.75" />
             </Array>
           </mxGeometry>
         </mxCell>
