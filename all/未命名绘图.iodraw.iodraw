@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="97" y="111.5" width="55" height="34" as="geometry" />
+          <mxGeometry x="294" y="20" width="55" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-2" value="管理员 登录系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-2" value="管理员查看订单情况" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="248" y="104" width="147" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-19" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="Mc_DtDmNUbXPAgXCJBLF-3">
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-3" value="是否输入 查询条件" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="470" y="80" width="163" height="49" as="geometry" />
+          <mxGeometry x="240" y="203" width="163" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-4" value="选择查询 类型(名称/编号 /状态)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="20" y="324" width="209" height="66" as="geometry" />
@@ -59,15 +59,14 @@
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-8" value="分页显示 查询结果" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="240" y="539" width="163" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mc_DtDmNUbXPAgXCJBLF-1" target="Mc_DtDmNUbXPAgXCJBLF-2">
+        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Mc_DtDmNUbXPAgXCJBLF-1" target="Mc_DtDmNUbXPAgXCJBLF-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-10" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="Mc_DtDmNUbXPAgXCJBLF-3">
+        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Mc_DtDmNUbXPAgXCJBLF-2" target="Mc_DtDmNUbXPAgXCJBLF-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="390" y="130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Mc_DtDmNUbXPAgXCJBLF-4" target="Mc_DtDmNUbXPAgXCJBLF-7">
