@@ -16,6 +16,9 @@
         <mxCell id="gIaM-91dVMxVQiJmObUB-5" value="提交预约" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="130" width="140" height="53" as="geometry" />
         </mxCell>
+        <mxCell id="gIaM-91dVMxVQiJmObUB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-6" target="gIaM-91dVMxVQiJmObUB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-6" value="时段是否冲突&#xa;(Redis分布式锁)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="750" y="120" width="216" height="77.75" as="geometry" />
         </mxCell>
