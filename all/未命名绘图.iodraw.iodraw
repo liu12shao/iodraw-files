@@ -20,7 +20,7 @@
             <mxPoint x="530" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-27" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mc_DtDmNUbXPAgXCJBLF-20">
+        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-27" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="Mc_DtDmNUbXPAgXCJBLF-20">
           <mxGeometry x="-0.5709" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
