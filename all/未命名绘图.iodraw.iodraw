@@ -102,9 +102,6 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIaM-91dVMxVQiJmObUB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-28" target="gIaM-91dVMxVQiJmObUB-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-28" value="时段是否冲突&#xa;Redis分布式锁" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="266.5" y="810" width="238" height="110" as="geometry" />
         </mxCell>
