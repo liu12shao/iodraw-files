@@ -112,7 +112,7 @@
           <mxGeometry x="325" y="1000" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-32" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="358" y="1107" width="55" height="34" as="geometry" />
+          <mxGeometry x="358" y="1107" width="55" height="53" as="geometry" />
         </mxCell>
         <mxCell id="gIaM-91dVMxVQiJmObUB-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="gIaM-91dVMxVQiJmObUB-24" target="gIaM-91dVMxVQiJmObUB-25">
           <mxGeometry relative="1" as="geometry">
