@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0VHGmOSM8l98AlosyBHB-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=126;" vertex="1" parent="1">
+        <mxCell id="0VHGmOSM8l98AlosyBHB-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="304" width="122" height="34" as="geometry" />
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-2" value="查看订单列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
