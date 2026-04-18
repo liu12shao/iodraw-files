@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-7" value="提示&quot;余额不足&quot;&#xa;请充值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0VHGmOSM8l98AlosyBHB-7" value="提示&quot;余额不足&quot;&#xa;请充值" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="490" y="519" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-9" target="0VHGmOSM8l98AlosyBHB-11">
