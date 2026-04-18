@@ -108,6 +108,11 @@
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-64" target="_YdCC2SEsKEoDBMv1W3g-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_YdCC2SEsKEoDBMv1W3g-124" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_YdCC2SEsKEoDBMv1W3g-123">
+          <mxGeometry x="0.0391" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-64" value="密码校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="547.5" y="2850" width="113" height="83" as="geometry" />
         </mxCell>
@@ -223,7 +228,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.939;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-65" target="_YdCC2SEsKEoDBMv1W3g-65">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="676" y="3040" />
+              <mxPoint x="676" y="2970" />
+              <mxPoint x="696" y="2970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
