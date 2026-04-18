@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-63" value="提示&#39;账号或密码不正确&#39;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="134.5" y="2840" width="246" height="67.5" as="geometry" />
+          <mxGeometry x="134.5" y="2840" width="245.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-64" target="_YdCC2SEsKEoDBMv1W3g-65">
           <mxGeometry relative="1" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="491.5" y="2840" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-66" value="用户输入验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="518" y="3162" width="172" height="49" as="geometry" />
+          <mxGeometry x="510" y="2950" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-67" target="_YdCC2SEsKEoDBMv1W3g-68">
           <mxGeometry relative="1" as="geometry" />
