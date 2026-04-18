@@ -72,7 +72,7 @@
           <mxGeometry x="562" y="771" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-12" value="验证验证码 (Redis)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="541" y="870" width="183" height="183" as="geometry" />
+          <mxGeometry x="541" y="870" width="219" height="183" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-13" value="验证码错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1864" width="140" height="49" as="geometry" />
