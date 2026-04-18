@@ -53,9 +53,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="192" y="896" as="targetPoint" />
+        <mxCell id="0VHGmOSM8l98AlosyBHB-38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0VHGmOSM8l98AlosyBHB-35">
+          <mxGeometry x="-0.3587" y="5" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-11" value="支付成功&#xa;跳转订单详情" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
