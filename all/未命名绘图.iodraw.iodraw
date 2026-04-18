@@ -23,7 +23,7 @@
           <mxGeometry x="270" y="404" width="192" height="86" as="geometry" />
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-6" value="扣减余额&#xa;精确计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="64" y="669" width="124" height="66" as="geometry" />
+          <mxGeometry x="64.5" y="510" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-7" value="提示&quot;余额不足&quot;&#xa;请充值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="238" y="669" width="256" height="66" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="544" y="669" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-9" value="更新订单&#xa;状态=&quot;已支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="27" y="786" width="198" height="66" as="geometry" />
+          <mxGeometry x="27.5" y="630" width="198" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-10" value="记录日志&#xa;(@SysLog)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="61" y="902" width="131" height="66" as="geometry" />
