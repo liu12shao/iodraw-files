@@ -16,6 +16,9 @@
         <mxCell id="0VHGmOSM8l98AlosyBHB-4" value="余额校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="304" y="305" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="0VHGmOSM8l98AlosyBHB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-5" target="0VHGmOSM8l98AlosyBHB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-5" value="余额是否充足&#xa;(NumberUtil计算)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="270" y="404" width="192" height="86" as="geometry" />
         </mxCell>
@@ -64,13 +67,6 @@
         <mxCell id="0VHGmOSM8l98AlosyBHB-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-4" target="0VHGmOSM8l98AlosyBHB-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-19" value="充足" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-5" target="0VHGmOSM8l98AlosyBHB-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="126" y="633" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-20" value="不足" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-5" target="0VHGmOSM8l98AlosyBHB-7">
