@@ -31,14 +31,17 @@
         <mxCell id="0VHGmOSM8l98AlosyBHB-8" value="提示&quot;支付失败&quot;&#xa;请重试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="544" y="669" width="256" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="0VHGmOSM8l98AlosyBHB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-9" target="0VHGmOSM8l98AlosyBHB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-9" value="更新订单&#xa;状态=&quot;已支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="27.5" y="630" width="198" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-11" value="支付成功&#xa;跳转订单详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="48" y="1018" width="156" height="66" as="geometry" />
+          <mxGeometry x="48" y="830" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-12" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="389" y="1135" width="55" height="34" as="geometry" />
+          <mxGeometry x="338" y="940" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-13" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="338" y="802" width="55" height="34" as="geometry" />
@@ -81,12 +84,6 @@
         <mxCell id="0VHGmOSM8l98AlosyBHB-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-6" target="0VHGmOSM8l98AlosyBHB-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="0VHGmOSM8l98AlosyBHB-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="155.5" y="816" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-11" target="0VHGmOSM8l98AlosyBHB-12">
