@@ -67,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-67" value="验证验证码(Redis)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="3260" width="189" height="49" as="geometry" />
+          <mxGeometry x="501.5" y="3060" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-68" value="生成Token(Sa-Token)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="318" y="3382" width="209" height="49" as="geometry" />
