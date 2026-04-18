@@ -22,10 +22,10 @@
         <mxCell id="0VHGmOSM8l98AlosyBHB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-5" target="0VHGmOSM8l98AlosyBHB-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-5" value="余额是否充足&#xa;(NumberUtil计算)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0VHGmOSM8l98AlosyBHB-5" value="余额是否充足&#xa;(NumberUtil计算)" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="270" y="404" width="192" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-6" value="扣减余额&#xa;精确计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0VHGmOSM8l98AlosyBHB-6" value="扣减余额&#xa;精确计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="120" y="519" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-7" target="0VHGmOSM8l98AlosyBHB-12">
