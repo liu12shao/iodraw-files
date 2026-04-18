@@ -47,7 +47,12 @@
         <mxCell id="0VHGmOSM8l98AlosyBHB-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-11" target="0VHGmOSM8l98AlosyBHB-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0VHGmOSM8l98AlosyBHB-11" value="支付成功&#xa;跳转订单详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0VHGmOSM8l98AlosyBHB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0VHGmOSM8l98AlosyBHB-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192" y="896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VHGmOSM8l98AlosyBHB-11" value="支付成功&#xa;跳转订单详情" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="104" y="820" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0VHGmOSM8l98AlosyBHB-12" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
