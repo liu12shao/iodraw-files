@@ -10,7 +10,7 @@
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-2" value="管理员 登录系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="248" y="104" width="147" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-19" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="Mc_DtDmNUbXPAgXCJBLF-3">
+        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-19" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="Mc_DtDmNUbXPAgXCJBLF-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="320" as="targetPoint" />
           </mxGeometry>
