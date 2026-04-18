@@ -74,7 +74,7 @@
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-12" target="_YdCC2SEsKEoDBMv1W3g-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_YdCC2SEsKEoDBMv1W3g-52" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_YdCC2SEsKEoDBMv1W3g-51">
+        <mxCell id="_YdCC2SEsKEoDBMv1W3g-52" value="验证码错误" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_YdCC2SEsKEoDBMv1W3g-51">
           <mxGeometry x="0.0512" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -144,13 +144,6 @@
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-31" value="正确" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-12" target="_YdCC2SEsKEoDBMv1W3g-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_YdCC2SEsKEoDBMv1W3g-32" value="过期" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-12" target="_YdCC2SEsKEoDBMv1W3g-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1027" y="1089" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-14" target="_YdCC2SEsKEoDBMv1W3g-16">
