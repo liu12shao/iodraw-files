@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-5" value="显示全部 订单列表" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="445" y="441" width="163" height="49" as="geometry" />
+          <mxGeometry x="440" y="324" width="163" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.451;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Mc_DtDmNUbXPAgXCJBLF-7" target="Mc_DtDmNUbXPAgXCJBLF-8">
           <mxGeometry relative="1" as="geometry">
@@ -47,6 +47,9 @@
         </mxCell>
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-7" value="输入查询 关键字" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="51" y="441" width="147" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mc_DtDmNUbXPAgXCJBLF-8" target="Mc_DtDmNUbXPAgXCJBLF-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-8" value="分页显示 查询结果" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="240" y="539" width="163" height="51" as="geometry" />
@@ -67,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-24" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="294" y="670" width="55" height="34" as="geometry" />
+          <mxGeometry x="294" y="630" width="55" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
