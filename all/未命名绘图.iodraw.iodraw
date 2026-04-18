@@ -49,7 +49,7 @@
           <mxGeometry x="51" y="441" width="147" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-8" value="分页显示 查询结果" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="240" y="539" width="163" height="49" as="geometry" />
+          <mxGeometry x="240" y="539" width="163" height="51" as="geometry" />
         </mxCell>
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Mc_DtDmNUbXPAgXCJBLF-1" target="Mc_DtDmNUbXPAgXCJBLF-2">
           <mxGeometry relative="1" as="geometry">
@@ -66,7 +66,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-24" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-24" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="294" y="630" width="55" height="34" as="geometry" />
         </mxCell>
       </root>
