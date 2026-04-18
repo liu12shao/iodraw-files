@@ -59,7 +59,7 @@
         <mxCell id="Mc_DtDmNUbXPAgXCJBLF-8" value="分页显示 查询结果" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="240" y="539" width="163" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Mc_DtDmNUbXPAgXCJBLF-1" target="Mc_DtDmNUbXPAgXCJBLF-2">
+        <mxCell id="Mc_DtDmNUbXPAgXCJBLF-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mc_DtDmNUbXPAgXCJBLF-1" target="Mc_DtDmNUbXPAgXCJBLF-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
