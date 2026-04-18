@@ -79,6 +79,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_YdCC2SEsKEoDBMv1W3g-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YdCC2SEsKEoDBMv1W3g-12" target="_YdCC2SEsKEoDBMv1W3g-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YdCC2SEsKEoDBMv1W3g-12" value="验证验证码 (Redis)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="497.5" y="870" width="270" height="110" as="geometry" />
         </mxCell>
@@ -226,6 +229,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="1340" as="sourcePoint" />
             <mxPoint x="690" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YdCC2SEsKEoDBMv1W3g-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1080" as="sourcePoint" />
+            <mxPoint x="690" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YdCC2SEsKEoDBMv1W3g-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1080" as="sourcePoint" />
+            <mxPoint x="690" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
